@@ -1,0 +1,42 @@
+.title-item{
+  font-size: 18px; font-family: Arial, Helvetica, sans-serif;
+  color: darkgray;
+}
+.left-item{
+  align-items: left;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+  margin-left: 20px;
+}
+.subtitle-item{
+  font-size: 15px; font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+.font-small{
+  font-size: small;
+}
+.destaque {
+  border: 2px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  height: 100px;
+}
+
+.body-left{
+  width: 50%;
+  float:left;
+}
+.container {
+  display: flex;
+}
+
+
+
+.card-header {
+  background-color: #f0f0f0; /* Cor de fundo do cabeçalho */
+  padding: 10px; /* Espaçamento interno do cabeçalho */
+    font-weight: bold; /* Fonte em negrito */
+  }
